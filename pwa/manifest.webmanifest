@@ -1,0 +1,14 @@
+{
+  "name": "PalaeoKids",
+  "short_name": "PalaeoKids",
+  "description": "Palaeoscience learning from the Indian Palaeo Database.",
+  "start_url": "/palaeokids",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7F1E8",
+  "theme_color": "#6B4A32",
+  "icons": [
+    {"src":"/palaeokids-icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/palaeokids-icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
